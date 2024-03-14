@@ -1,7 +1,7 @@
 # XOXO Game
 
 
-![Home Page](Mainpage.png)  
+![Home Page](MainPage.png)
 
 XOXO Game is a modern take on the classic Tic-Tac-Toe game, designed to provide a fun and interactive gaming experience. Developed with HTML, CSS, JavaScript, and Bootstrap, this game features a sleek user interface that is responsive and accessible on various devices.
 
